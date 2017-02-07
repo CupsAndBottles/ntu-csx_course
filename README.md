@@ -27,7 +27,6 @@ CS+X（Computer Science + 知識領域 X）學習 CS 學理與程式撰寫技能
 * CSX2001 手機應用程式設計進階 \(微課程\)
   * \[[CEIBA](https://ceiba.ntu.edu.tw/1052CSX2001_)\] \[[台大課程網](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH)\]
 
-
 #### [張傑帆老師](Jeff.md)
 
 * CSX3001 嵌入式微型電腦互動設計初階 \(網路課程\)
@@ -42,13 +41,13 @@ CS+X（Computer Science + 知識領域 X）學習 CS 學理與程式撰寫技能
 #### [陳琨老師](kChen.md)
 
 * CSX1001 網頁使用者介面設計 \(網路課程\)
-  * [\[介紹\]](CSX1001.md) [[台大課程網]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH)
+  * [\[介紹\]](CSX1001.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH)
 * CSX1004 網頁互動程式設計 \(網路課程\)
-  * [[介紹]](CSX1004.md) [[台大課程網]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=01&dpt_code=H020&ser_no=28044&semester=105-2&lang=CH)
+  * [\[介紹\]](CSX1004.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=01&dpt_code=H020&ser_no=28044&semester=105-2&lang=CH)
 * CSX2002 手機應用程式設計 \(網路課程\)
-  * [[介紹]](CSX2002.md) [[台大課程網]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=01&dpt_code=H020&ser_no=77932&semester=105-2&lang=CH)
+  * [\[介紹\]](CSX2002.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=01&dpt_code=H020&ser_no=77932&semester=105-2&lang=CH)
 * CSX2003 網站資料庫程式設計 \(微課程\)
-  * [[介紹]](CSX2003.md) [[台大課程網]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=01&dpt_code=H020&ser_no=7447&semester=105-2&lang=CH)
+  * [\[介紹\]](CSX2003.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=01&dpt_code=H020&ser_no=7447&semester=105-2&lang=CH)
 
 
 
