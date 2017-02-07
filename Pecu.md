@@ -1,9 +1,9 @@
 ### 蔡芸琤老師
 
 * 職稱：臺大共同教育中心 專任專案計畫助理教授
-* 個人網頁：http://homepage.ntu.edu.tw/~pecutsai/
+* 個人網頁：[http://homepage.ntu.edu.tw/~pecutsai/](http://homepage.ntu.edu.tw/~pecutsai/)
 * 教學FB社團：[PecuClub](https://www.facebook.com/groups/283207588460616/)
-* 聯絡方式：(待補)
+* 聯絡方式：pecutsai@ntu.edu.tw; pecu610@gmail.com
 
 #### 105-2 開課列表
 
@@ -19,10 +19,6 @@
   * \[[CEIBA](https://ceiba.ntu.edu.tw/1052CSX1003_)\] \[[台大課程網](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001030&class=&dpt_code=H020&ser_no=72094&semester=105-2&lang=CH)\]
 * CSX2001 手機應用程式設計進階 \(微課程\)
   * \[[CEIBA](https://ceiba.ntu.edu.tw/1052CSX2001_)\] \[[台大課程網](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH)\]
-
-
-
-
 
 
 
