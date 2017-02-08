@@ -43,9 +43,7 @@
 #### [陳琨老師](kChen.md)
 
 * CSX1001 網頁使用者介面設計 01 班 \(網路課程\)
-  * [\[介紹\]](CSX1001.md "介紹")
-  * [\[CEIBA\]](https://ceiba.ntu.edu.tw/1052CSX1001_01 "CEIBA")
-  * [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH)
+  * [\[介紹\]](CSX1001.md "介紹") [\[CEIBA\]](https://ceiba.ntu.edu.tw/1052CSX1001_01 "CEIBA") [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH)
 * CSX1004 網頁互動程式設計 \(網路課程\)
   * [\[介紹\]](CSX1004.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=01&dpt_code=H020&ser_no=28044&semester=105-2&lang=CH)
 * CSX2002 手機應用程式設計 \(網路課程\)
