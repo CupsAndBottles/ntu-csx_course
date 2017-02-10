@@ -57,48 +57,69 @@
 [CSX2001]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH
 
 
-
-
 ### [張傑帆老師](Jeff.md)
 
-* CSX3001 嵌入式微型電腦互動設計初階 \(網路課程\)
-  * [\[介紹\]](CSX3001.md) [\[CEIBA\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=01&dpt_code=H020&ser_no=82573&semester=105-2&lang=CH) 
-* CSX3002 C/C++程式設計 \(網路課程\)
-  * [\[介紹\]](CSX3002.md) [\[CEIBA\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003020&class=01&dpt_code=H020&ser_no=38926&semester=105-2&lang=CH)
-* CSX4002 計算機程式設計 \(網路課程\)
-  * [\[介紹\]](CSX4002.md) [\[CEIBA\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004020&class=01&dpt_code=H020&ser_no=60502&semester=105-2&lang=CH)
-* CSX3003 嵌入式微型電腦互動設計進階 \(密集課程\)
-  * [\[介紹\]](CSX3003.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=01&dpt_code=H020&ser_no=57230&semester=105-2&lang=CH)
+* CSX3001 嵌入式微型電腦互動設計初階 (網路課程)
+  * [介紹](CSX3001.md)
+  * 台大課程網 [01班][CSX300101] [02班][CSX300102] [03班][CSX300103]
+* CSX3002 C/C++程式設計 (網路課程)
+  * [介紹](CSX3002.md)
+  * 台大課程網 [01班][CSX300201] [02班][CSX300202] [03班][CSX300203]
+* CSX4002 計算機程式設計 (網路課程)
+  * [介紹](CSX4002.md)
+  * 台大課程網 [01班][CSX400201] [02班][CSX400202] [03班][CSX400203]
+* CSX3003 嵌入式微型電腦互動設計進階 (微課程)
+  * [介紹](CSX3003.md)
+  * 台大課程網 [01班][CSX300301] [02班][CSX300302] [03班][CSX300303]
+
+[CSX300101]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=01&dpt_code=H020&ser_no=82573&semester=105-2&lang=CH
+[CSX300102]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=02&dpt_code=H020&ser_no=16237&semester=105-2&lang=CH
+[CSX300103]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=03&dpt_code=H020&ser_no=31755&semester=105-2&lang=CH
+
+[CSX300201]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003020&class=01&dpt_code=H020&ser_no=38926&semester=105-2&lang=CH
+[CSX300202]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003020&class=02&dpt_code=H020&ser_no=11984&semester=105-2&lang=CH
+[CSX300203]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003020&class=03&dpt_code=H020&ser_no=43717&semester=105-2&lang=CH
+
+[CSX400201]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004020&class=01&dpt_code=H020&ser_no=60502&semester=105-2&lang=CH
+[CSX400202]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004020&class=02&dpt_code=H020&ser_no=40177&semester=105-2&lang=CH
+[CSX400203]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004020&class=03&dpt_code=H020&ser_no=80268&semester=105-2&lang=CH
+
+[CSX300301]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=01&dpt_code=H020&ser_no=57230&semester=105-2&lang=CH
+[CSX300302]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=02&dpt_code=H020&ser_no=84073&semester=105-2&lang=CH
+[CSX300303]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=03&dpt_code=H020&ser_no=86991&semester=105-2&lang=CH
+
 
 ### [陳琨老師](kChen.md)
 
 * CSX1001 網頁使用者介面設計 (網路課程)
-    * [介紹](CSX1001.md)
-    * [01班][CSX1001_01] [02班][CSX1001_02] [03班][CSX1001_03]
+  * [介紹](CSX1001.md)
+  * 台大課程網 [01班][CSX100101] [02班][CSX100102] [03班][CSX100103]
 * CSX1004 網頁互動程式設計 (網路課程)
-    * [介紹](CSX1004.md) 
-    * [01班][CSX1004_01] [02班][CSX1004_02] [03班][CSX1004_03]
+  * [介紹](CSX1004.md) 
+  * 台大課程網 [01班][CSX100401] [02班][CSX100402] [03班][CSX100403]
 * CSX2002 手機應用程式設計 (網路課程)
-    * [介紹](CSX2002.md)
-    * [01班][CSX2002_01] [02班][CSX2002_02] [03班][CSX2002_03]
-* CSX2003 網站資料庫程式設計 微課程
-    * [介紹](CSX2003.md) 
-    * [01班][CSX2003_01] [02班][CSX2003_02]
+  * [介紹](CSX2002.md)
+  * 台大課程網 [01班][CSX200201] [02班][CSX200202] [03班][CSX200203]
+* CSX2003 網站資料庫程式設計 (微課程)
+  * [介紹](CSX2003.md) 
+  * 台大課程網 [01班][CSX200301] [02班][CSX200302]
 
-[CSX1001_01]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH
-[CSX1001_02]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=02&dpt_code=H020&ser_no=56518&semester=105-2&lang=CH 
-[CSX1001_03]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=03&dpt_code=H020&ser_no=65468&semester=105-2&lang=CH 
+[CSX100101]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH
+[CSX100102]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=02&dpt_code=H020&ser_no=56518&semester=105-2&lang=CH 
+[CSX100103]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=03&dpt_code=H020&ser_no=65468&semester=105-2&lang=CH 
 
-[CSX1004_01]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=01&dpt_code=H020&ser_no=28044&semester=105-2&lang=CH
-[CSX1004_02]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=02&dpt_code=H020&ser_no=81574&semester=105-2&lang=CH
-[CSX1004_03]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=03&dpt_code=H020&ser_no=82615&semester=105-2&lang=CH
+[CSX100401]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=01&dpt_code=H020&ser_no=28044&semester=105-2&lang=CH
+[CSX100402]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=02&dpt_code=H020&ser_no=81574&semester=105-2&lang=CH
+[CSX100403]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001040&class=03&dpt_code=H020&ser_no=82615&semester=105-2&lang=CH
 
-[CSX2002_01]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=01&dpt_code=H020&ser_no=77932&semester=105-2&lang=CH
-[CSX2002_02]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=02&dpt_code=H020&ser_no=78245&semester=105-2&lang=CH
-[CSX2002_03]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=03&dpt_code=H020&ser_no=37112&semester=105-2&lang=CH
+[CSX200201]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=01&dpt_code=H020&ser_no=77932&semester=105-2&lang=CH
+[CSX200202]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=02&dpt_code=H020&ser_no=78245&semester=105-2&lang=CH
+[CSX200203]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002020&class=03&dpt_code=H020&ser_no=37112&semester=105-2&lang=CH
 
-[CSX2003_01]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=01&dpt_code=H020&ser_no=74472&semester=105-2&lang=CH
-[CSX2003_02]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=02&dpt_code=H020&ser_no=34437&semester=105-2&lang=CH
+[CSX200301]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=01&dpt_code=H020&ser_no=74472&semester=105-2&lang=CH
+[CSX200302]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002030&class=02&dpt_code=H020&ser_no=34437&semester=105-2&lang=CH
+
+
 
 
 
