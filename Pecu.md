@@ -38,7 +38,7 @@
 [CSX1003C]: https://ceiba.ntu.edu.tw/1052CSX1003_
 [CSX1003]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001030&class=&dpt_code=H020&ser_no=72094&semester=105-2&lang=CH
 
-[CSX2001_C]: https://ceiba.ntu.edu.tw/1052CSX2001_
+[CSX2001C]: https://ceiba.ntu.edu.tw/1052CSX2001_
 [CSX2001]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH
 
 
