@@ -4,9 +4,13 @@
 
 爰此，臺大共同教育中心啟動系列得採計為通識學分的資訊基本能力課程 \(課號開頭為CSX\)，目標在使非資訊系所之學生，亦能習得各科系領域及未來職場可應用之數位技能、運算思維，讓同學在日漸蓬勃發展之資訊時代中，創意、機會得無限延伸而擁有終身學習的動機與能力。
 
+---
+
 ## 105-1 學期期末成果展
 
 * [臺大 CS+X 課程期末成果發表會](http://ntu-csx.csie.org/)
+
+---
 
 ## 105-2 學期課程說明會
 
@@ -14,9 +18,11 @@
 * 地點：普通大樓 102 教室
 * 授課老師：蔡芸琤、陳琨、張傑帆
 
+---
+
 ## 105-2 學期課程表
 
-#### [蔡芸琤老師](Pecu.md)
+### [蔡芸琤老師](Pecu.md)
 
 * CSX4001 資料科學程式設計
   * \[[CEIBA](https://ceiba.ntu.edu.tw/1052CSX4001_)\] \[[台大課程網](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2004010&class=&dpt_code=H020&ser_no=28187&semester=105-2&lang=CH)\]
@@ -29,7 +35,7 @@
 * CSX2001 手機應用程式設計進階 \(密集課程\)
   * \[[CEIBA](https://ceiba.ntu.edu.tw/1052CSX2001_)\] \[[台大課程網](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH)\]
 
-#### [張傑帆老師](Jeff.md)
+### [張傑帆老師](Jeff.md)
 
 * CSX3001 嵌入式微型電腦互動設計初階 \(網路課程\)
   * [\[介紹\]](CSX3001.md) [\[CEIBA\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=01&dpt_code=H020&ser_no=82573&semester=105-2&lang=CH) 
@@ -40,7 +46,7 @@
 * CSX3003 嵌入式微型電腦互動設計進階 \(密集課程\)
   * [\[介紹\]](CSX3003.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=01&dpt_code=H020&ser_no=57230&semester=105-2&lang=CH)
 
-#### [陳琨老師](kChen.md)
+### [陳琨老師](kChen.md)
 
 * CSX1001 網頁使用者介面設計 01 班 \(網路課程\)
   * [\[介紹\]](CSX1001.md "介紹") [\[CEIBA\]](https://ceiba.ntu.edu.tw/1052CSX1001_01 "CEIBA") [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH)
