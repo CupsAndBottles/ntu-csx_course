@@ -10,17 +10,17 @@
 # 105-2 開課列表
 
 * CSX1001 網頁使用者介面設計 (網路課程)
-    * [介紹](CSX1001.md)
-    * [01班][CSX100101] [02班][CSX100102] [03班][CSX100103]
+  * [介紹](CSX1001.md)
+  * 台大課程網 [01班][CSX100101] [02班][CSX100102] [03班][CSX100103]
 * CSX1004 網頁互動程式設計 (網路課程)
-    * [介紹](CSX1004.md) 
-    * [01班][CSX100401] [02班][CSX100402] [03班][CSX100403]
+  * [介紹](CSX1004.md) 
+  * 台大課程網 [01班][CSX100401] [02班][CSX100402] [03班][CSX100403]
 * CSX2002 手機應用程式設計 (網路課程)
-    * [介紹](CSX2002.md)
-    * [01班][CSX200201] [02班][CSX200202] [03班][CSX200203]
+  * [介紹](CSX2002.md)
+  * 台大課程網 [01班][CSX200201] [02班][CSX200202] [03班][CSX200203]
 * CSX2003 網站資料庫程式設計 (微課程)
-    * [介紹](CSX2003.md) 
-    * [01班][CSX200301] [02班][CSX200302]
+  * [介紹](CSX2003.md) 
+  * 台大課程網 [01班][CSX200301] [02班][CSX200302]
 
 [CSX100101]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH
 [CSX100102]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=02&dpt_code=H020&ser_no=56518&semester=105-2&lang=CH 
