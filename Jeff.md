@@ -1,11 +1,13 @@
-### 張傑帆老師
+# 張傑帆老師
 
 * 職稱：臺大共同教育中心 兼任講師
 * 個人網頁：(待補)
 * 教學FB社團：(待補)
 * 聯絡方式：(待補)
 
-#### 105-2 開課列表
+---
+
+# 105-2 開課列表
 
 * CSX3001 嵌入式微型電腦互動設計初階 \(網路課程\)
     * [\[介紹\]](CSX3001.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=01&dpt_code=H020&ser_no=82573&semester=105-2&lang=CH) 
@@ -16,5 +18,6 @@
 * CSX3003 嵌入式微型電腦互動設計進階 \(微課程\)
     * [\[介紹\]](CSX3003.md) [\[台大課程網\]](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=01&dpt_code=H020&ser_no=57230&semester=105-2&lang=CH)
 
+[CSX300101]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003010&class=01&dpt_code=H020&ser_no=82573&semester=105-2&lang=CH
 
 
