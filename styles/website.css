@@ -1,0 +1,16 @@
+/* CSS for website */
+
+table {
+    width: 100%; /*表格寬度*/
+    max-width: 65em; /*表格最大寬度，避免表格過寬*/
+    border: 1px solid #dedede; /*表格外邊框設置*/
+    margin: 15px auto; /*外邊距*/
+    border-collapse: collapse; /*使用單一線條的邊框*/
+    empty-cells: show; /*單元格無內容依舊繪製邊框*/
+}
+
+th,td {
+  height: 35px; /*統一每一行的默認高度*/
+  border: 1px solid #dedede; /*內部邊框樣式*/
+  padding: 0 10px; /*內邊距*/
+}
