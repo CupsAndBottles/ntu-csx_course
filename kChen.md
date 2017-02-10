@@ -1,5 +1,12 @@
 ### 陳琨老師
 
+* 職稱：臺大共同教育中心 兼任講師
+* 個人網頁：(待補)
+* 教學FB社團：[kChenClub](https://www.facebook.com/groups/kchen.club/)
+* 聯絡方式：kchen@csie.org
+
+
+
 #### 105-2 開課列表
 
 * CSX1001 網頁使用者介面設計 \(網路課程\)
