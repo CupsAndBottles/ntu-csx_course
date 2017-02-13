@@ -4,6 +4,7 @@
         "toggle-headers",
         "indexes",
         "header",
+        "anchors",
         "comscore"
     ],
     "pluginsConfig": {
