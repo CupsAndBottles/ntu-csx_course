@@ -3,10 +3,8 @@
         "splitter",
         "toggle-headers",
         "indexes",
-        "header",
         "anchors",
-        "layout",
-        "theme-comscore"
+        "header"
     ],
     "pluginsConfig": {
         "layout": {
