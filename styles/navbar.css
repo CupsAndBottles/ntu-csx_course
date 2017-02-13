@@ -103,7 +103,24 @@
     height: auto;
     vertical-align: middle;
 }
-
+.navbar-brand {
+    float: left;
+    padding-top: .25rem;
+    padding-bottom: .25rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+}
+.navbar-brand a {
+    color: #007FFF;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+.navbar-brand a {
+    background-color: transparent;
+    text-decoration: none;
+}
 
 /* responsive nav */
 
