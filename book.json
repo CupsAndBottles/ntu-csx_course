@@ -3,7 +3,8 @@
         "splitter",
         "toggle-headers",
         "indexes",
-        "header"
+        "header",
+        "comscore"
     ],
     "pluginsConfig": {
         "webheader": {
