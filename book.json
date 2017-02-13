@@ -4,7 +4,7 @@
         "toggle-headers",
         "indexes",
         "anchors",
-        "layout"
+        "header"
     ],
     "pluginsConfig": {
         "layout": {
