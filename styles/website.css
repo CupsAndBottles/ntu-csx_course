@@ -5,3 +5,5 @@
 .summary > li:nth-child(1), .summary > li:nth-child(2) {
     display: none;
 }
+
+@import url("assets/navbar.css");
