@@ -22,7 +22,7 @@
 
 ## 105-2 學期課程表
 
-### [蔡芸琤老師](Pecu.md)
+### 蔡芸琤老師
 
 * CSX4001 資料科學程式設計
   * [CEIBA][CSX4001C]
@@ -57,7 +57,7 @@
 [CSX2001]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2002010&class=&dpt_code=H020&ser_no=46562&semester=105-2&lang=CH
 
 
-### [張傑帆老師](Jeff.md)
+### 張傑帆老師
 
 * CSX3001 嵌入式微型電腦互動設計初階 (網路課程)
   * [介紹](CSX3001.md)
@@ -89,20 +89,14 @@
 [CSX300303]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2003030&class=03&dpt_code=H020&ser_no=86991&semester=105-2&lang=CH
 
 
-### [陳琨老師](kChen.md)
+### 陳琨老師
 
-* CSX1001 網頁使用者介面設計 (網路課程)
-  * [介紹](CSX1001.md)
-  * 台大課程網 [01班][CSX100101] [02班][CSX100102] [03班][CSX100103]
-* CSX1004 網頁互動程式設計 (網路課程)
-  * [介紹](CSX1004.md) 
-  * 台大課程網 [01班][CSX100401] [02班][CSX100402] [03班][CSX100403]
-* CSX2002 手機應用程式設計 (網路課程)
-  * [介紹](CSX2002.md)
-  * 台大課程網 [01班][CSX200201] [02班][CSX200202] [03班][CSX200203]
-* CSX2003 網站資料庫程式設計 (微課程)
-  * [介紹](CSX2003.md) 
-  * 台大課程網 [01班][CSX200301] [02班][CSX200302]
+課程編號 | 課程類型 | 課程名稱 | 台大課程網
+:------:|:-------:|:---------|:--------
+CSX1001 | 網路課程 |[網頁使用者介面設計](CSX1001.md)| [01班][CSX100101] [02班][CSX100102] [03班][CSX100103]
+CSX1004 | 網路課程 |[網頁互動程式設計](CSX1004.md) | [01班][CSX100401] [02班][CSX100402] [03班][CSX100403]
+CSX2002 | 網路課程 |[手機應用程式設計](CSX2002.md)| [01班][CSX200201] [02班][CSX200202] [03班][CSX200203]
+CSX2003 | 密集課程 |[網站資料庫程式設計](CSX2003.md)| [01班][CSX200301] [02班][CSX200302]
 
 [CSX100101]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=01&dpt_code=H020&ser_no=82451&semester=105-2&lang=CH
 [CSX100102]: https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2001010&class=02&dpt_code=H020&ser_no=56518&semester=105-2&lang=CH 
