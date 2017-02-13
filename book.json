@@ -4,8 +4,7 @@
         "toggle-headers",
         "indexes",
         "anchors",
-        "layout",
-        "theme-comscore"
+        "layout"
     ],
     "pluginsConfig": {
         "layout": {
