@@ -5,12 +5,12 @@
         "indexes",
         "header",
         "anchors",
-        "comscore",
-        "layout"
+        "layout",
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "layout": {
-          "headerPath" : "layouts/header.html"
+            "headerPath": "layouts/header.html"
         }
     }
 }
