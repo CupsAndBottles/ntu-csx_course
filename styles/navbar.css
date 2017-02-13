@@ -2,6 +2,10 @@
     float: left;
 }
 
+.navbar-nav .nav-item+.nav-item {
+    margin-left: 1rem;
+}
+
 .navbar-nav .nav-link {
     display: block;
     padding-top: .425rem;
