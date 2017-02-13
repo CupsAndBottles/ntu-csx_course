@@ -1,10 +1,10 @@
 {
- "plugins": ["splitter", "toggle-headers", "web-header"]
-
-"pluginsConfig": {
-    "webheader": {
-        "headerTitle" : "國立臺灣大學 CS+X 能力課程"
+    "plugins": ["splitter", "toggle-headers", "web-header"],
+    
+    "pluginsConfig": {
+        "webheader": {
+            "headerTitle" : "國立臺灣大學 CS+X 能力課程"
+        }
     }
-}
 }
 
