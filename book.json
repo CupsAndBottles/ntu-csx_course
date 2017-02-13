@@ -5,7 +5,8 @@
         "indexes",
         "header",
         "anchors",
-        "comscore"
+        "comscore",
+        "layout"
     ],
     "pluginsConfig": {
         "layout": {
