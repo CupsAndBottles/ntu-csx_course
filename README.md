@@ -8,7 +8,7 @@
 
 ## 105-1 學期期末成果展
 
-* [臺大 CS+X 課程期末成果發表會](http://ntu-csx.csie.org/)
+* [臺大 CS+X 課程期末成果發表會](http://ntu-csx.csie.org/demo)
 
 ---
 
