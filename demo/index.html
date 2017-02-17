@@ -56,60 +56,143 @@
             </div>
         </div>
     </nav>
-    <section id="project">
+<section id="project">
         <div class="w-title">
             <h2>專案列表</h2>
             <div class="separator-s"></div>
         </div>
-        <div class="s-block-box" id="project_card_group">
-            <div class="s-block" v-for="project in projects">
-                <div class="s-box">
-                    <div class="s-box-img" :style="{ 'background': 'url(images/screenshot/'+project.img_url+')', 'background-size': 'cover'}">
-                        <a :href="project.project_url" target="_blank" class="link-wrapper"></a>
-                    </div>
-                </div>
-                <div class="s-name">
-                    <p class="w-name">
-                        {{project.team_name}}
-                    </p>
-                    <p>
-                        {{project.course_name}}
-                    </p>
-                    <p>
-                        <a class="btn btn-warning" :href="project.project_url" target="_blank">網站</a>
-                        <a class="btn btn-warning" :href="project.slide_url" target="_blank">投影片</a>
-                        <a class="btn btn-warning" :href="'radar.html?team_id='+project.team_id" target="_blank">分數</a>
-                    </p>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </div>
+        <div id="project_card_group" class="s-block-box"><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/14.jpg&quot;) 0% 0% / cover;"><a href="https://ivorydaae.github.io/StarryNite/index.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        星座分析網站
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://ivorydaae.github.io/StarryNite/index.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://ivorydaae.github.io/slide/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=14" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/15.jpg&quot;) 0% 0% / cover;"><a href="https://dearanita1116.github.io/secondgroup/frame%201129%202%202/index.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Shareholders
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://dearanita1116.github.io/secondgroup/frame%201129%202%202/index.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://seanlee128.github.io/stock-filter/final_present.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=15" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/16.jpg&quot;) 0% 0% / cover;"><a href="https://evanyo25.github.io/dPD_ktv/index.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        我要當歌手
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://evanyo25.github.io/dPD_ktv/index.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://ssuruyu.github.io/practice-1108/final/final.html" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=16" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/17.jpg&quot;) 0% 0% / cover;"><a href="https://chester11206.github.io/NTU_program4/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        太陽能裝設區域分析
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://chester11206.github.io/NTU_program4/" target="_blank" class="btn btn-warning">網站</a> <a href="https://chester11206.github.io/group4_slide/#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=17" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/18.jpg&quot;) 0% 0% / cover;"><a href="https://kaiyee0.github.io/web_R/index.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Dark X Taipei
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://kaiyee0.github.io/web_R/index.html" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/jennychiu/dark-taipei#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=18" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/19.jpg&quot;) 0% 0% / cover;"><a href="https://yuyuanhey.github.io/SALADDAYS/page1.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Salad Days
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://yuyuanhey.github.io/SALADDAYS/page1.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://dinaulabaha.github.io/SALADDAYS/slides-deck-1.html#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=19" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/20.jpg&quot;) 0% 0% / cover;"><a href="https://kbjiyu.github.io/csgroup7-jogging-data/index-redesign.html#1" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        雙北慢跑分析
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://kbjiyu.github.io/csgroup7-jogging-data/index-redesign.html#1" target="_blank" class="btn btn-warning">網站</a> <a href="https://f5130052.github.io/starttowork/codepen/group7slides.html#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=20" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/21.jpg&quot;) 0% 0% / cover;"><a href="https://p7282636p.github.io/PECUwebsite/theWebsite" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        NBA控球後衛球風轉變
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://p7282636p.github.io/PECUwebsite/theWebsite" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/poopoolol/deck-1#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=21" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/22.jpg&quot;) 0% 0% / cover;"><a href="https://lopeterlo.github.io/12-06-ninth/new.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Movie discussion in PTT
+                    </p> <p>
+                        數位應用程式設計（18週）
+                    </p> <p><a href="https://lopeterlo.github.io/12-06-ninth/new.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://small00blue.github.io/test1/demo/index.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=22" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/31.jpg&quot;) 0% 0% / cover;"><a href="https://shot67890.shinyapps.io/DSRshiny_upload/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Facebook各同溫層初探
+                    </p> <p>
+                         R語言與資料科學導論（18週）
+                    </p> <p><a href="https://shot67890.shinyapps.io/DSRshiny_upload/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/yun-chenchien/deck-1/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=31" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/32.jpg&quot;) 0% 0% / cover;"><a href="https://oomegappandda.shinyapps.io/shiny_dsr_zhihu/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        知乎
+                    </p> <p>
+                         R語言與資料科學導論（18週）
+                    </p> <p><a href="https://oomegappandda.shinyapps.io/shiny_dsr_zhihu/" target="_blank" class="btn btn-warning">網站</a> <a href="https://oomegappandda.github.io/shiny_dsr_zhihu/demo_Slide/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=32" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/33.jpg&quot;) 0% 0% / cover;"><a href="https://allenlo.shinyapps.io/contentfarm/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        內容農場
+                    </p> <p>
+                         R語言與資料科學導論（18週）
+                    </p> <p><a href="https://allenlo.shinyapps.io/contentfarm/" target="_blank" class="btn btn-warning">網站</a> <a href="https://weilunlo.github.io/ContentFarm/ContentFarm/Final.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=33" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/34.jpg&quot;) 0% 0% / cover;"><a href="https://kartdsam.shinyapps.io/dsr_project/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        二手車估價模型
+                    </p> <p>
+                         R語言與資料科學導論（18週）
+                    </p> <p><a href="https://kartdsam.shinyapps.io/dsr_project/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/kartdsam/deck-1/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=34" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/36.jpg&quot;) 0% 0% / cover;"><a href="https://yussuru.shinyapps.io/finaltest/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        台大用電狀況分析
+                    </p> <p>
+                         R語言與資料科學導論（18週）
+                    </p> <p><a href="https://yussuru.shinyapps.io/finaltest/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/yiwenkelly/deck-3/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=36" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/13.jpg&quot;) 0% 0% / cover;"><a href="https://kuochiacheng.github.io/TravelLight/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Travel Light
+                    </p> <p>
+                        台北商業大學軟體工程（18週）
+                    </p> <p><a href="https://kuochiacheng.github.io/TravelLight/" target="_blank" class="btn btn-warning">網站</a> <a href="https://www.emaze.com/@ATOLLOQQ/travellight" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=13" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/12.jpg&quot;) 0% 0% / cover;"><a href="https://seg1.github.io/seg2/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        指導教授媒合站
+                    </p> <p>
+                        台北商業大學軟體工程（18週）
+                    </p> <p><a href="https://seg1.github.io/seg2/" target="_blank" class="btn btn-warning">網站</a> <a href="https://www.emaze.com/@ATOLLFQO/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=12" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/2.jpg&quot;) 0% 0% / cover;"><a href="https://kartdsam.github.io/d3_2_demo" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        飛機失事知多少?
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://kartdsam.github.io/d3_2_demo" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/oponzzz/deck/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=2" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/3.jpg&quot;) 0% 0% / cover;"><a href="https://cheshirecatnick.github.io/CafeMatch/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        CafeMatch
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://cheshirecatnick.github.io/CafeMatch/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/elsatang/cafematch-4/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=3" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/5.jpg&quot;) 0% 0% / cover;"><a href="https://weichunliao.github.io/d3_group5/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        TAT-Go 環島e點通
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://weichunliao.github.io/d3_group5/" target="_blank" class="btn btn-warning">網站</a> <a href="https://oomegappandda.github.io/D3/demoSlide.html#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=5" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/6.jpg&quot;) 0% 0% / cover;"><a href="https://depresto.github.io/105-1-data-vidualization/presentation/templated-theory/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        桌上食物從哪來
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://depresto.github.io/105-1-data-vidualization/presentation/templated-theory/" target="_blank" class="btn btn-warning">網站</a> <a href="https://depresto.github.io/105-1-data-vidualization/presentation/present/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=6" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/9.jpg&quot;) 0% 0% / cover;"><a href="https://whirllllll.github.io/project/index.html" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        颱風租屋比價網
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://whirllllll.github.io/project/index.html" target="_blank" class="btn btn-warning">網站</a> <a href="https://pollyhsia.github.io/reveal.js/index.html#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=9" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/10.jpg&quot;) 0% 0% / cover;"><a href="https://linnil1.github.io/105_1_MOOC_WEB/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        LIVE AND WORK WITH US
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://linnil1.github.io/105_1_MOOC_WEB/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/evelyn114/deck/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=10" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/11.jpg&quot;) 0% 0% / cover;"><a href="https://tracy0412.github.io/final2/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        資料科學家
+                    </p> <p>
+                        淺談資料視覺化與D3.js （6週）
+                    </p> <p><a href="https://tracy0412.github.io/final2/" target="_blank" class="btn btn-warning">網站</a> <a href="http://slides.com/elsatang/datascientist_g3-1/fullscreen#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=11" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/24.jpg&quot;) 0% 0% / cover;"><a href="https://anpuwangeos203.shinyapps.io/rclassfinalproject/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        台大出清小幫手
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://anpuwangeos203.shinyapps.io/rclassfinalproject/" target="_blank" class="btn btn-warning">網站</a> <a href="https://anpeos302.github.io/anpeos302/pres.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=24" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/26.jpg&quot;) 0% 0% / cover;"><a href="https://philip928lin.shinyapps.io/Taipei/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Taipei Fun Places
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://philip928lin.shinyapps.io/Taipei/" target="_blank" class="btn btn-warning">網站</a> <a href="https://jeremyl861225.github.io/Rslide/index.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=26" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/27.jpg&quot;) 0% 0% / cover;"><a href="https://hankchen.shinyapps.io/restaurant/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        台大美食地圖
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://hankchen.shinyapps.io/restaurant/" target="_blank" class="btn btn-warning">網站</a> <a href="https://chrisyang1224.github.io/project1207/slide_test.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=27" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/28.jpg&quot;) 0% 0% / cover;"><a href="https://muffasa23.shinyapps.io/project_ui/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        偵測危險路口
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://muffasa23.shinyapps.io/project_ui/" target="_blank" class="btn btn-warning">網站</a> <a href="https://muffasa23.github.io/Final/present.html#1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=28" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/30.jpg&quot;) 0% 0% / cover;"><a href="https://oomegappandda.shinyapps.io/shinyProject/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        Disaster Info
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://oomegappandda.shinyapps.io/shinyProject/" target="_blank" class="btn btn-warning">網站</a> <a href="https://oomegappandda.github.io/pecuR/shinyProject/pecuR_demo/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=30" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/35.jpg&quot;) 0% 0% / cover;"><a href="https://deemoharlos.github.io/PPPPPP/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        PPPPPP
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://deemoharlos.github.io/PPPPPP/" target="_blank" class="btn btn-warning">網站</a> <a href="https://0xff07.github.io/PPPPFinalSlides/#/" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=35" target="_blank" class="btn btn-warning">分數</a></p></div></div><div class="s-block"><div class="s-box"><div class="s-box-img" style="background: url(&quot;images/screenshot/23.jpg&quot;) 0% 0% / cover;"><a href="https://k19111991.shinyapps.io/Final/" target="_blank" class="link-wrapper"></a></div></div> <div class="s-name"><p class="w-name">
+                        台股加權指數與投資策略
+                    </p> <p>
+                        使用R語言進行資料分析（6週）
+                    </p> <p><a href="https://k19111991.shinyapps.io/Final/" target="_blank" class="btn btn-warning">網站</a> <a href="https://sin-yao.github.io/105-1-R/final.html#slide1" target="_blank" class="btn btn-warning">投影片</a> <a href="radar.html?team_id=23" target="_blank" class="btn btn-warning">分數</a></p></div></div> <div class="clearfix"></div></div>
     </section>
 
 
-    <section id="teammate" class="bg-alt">
-        <div class="container wow fadeInUp">
+<section id="teammate" class="bg-alt">
+        <div class="container wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
             <div class="row align-items-start">
                 <div class="w-title">
                     <h2>執行團隊</h2>
                     <!--<div class="separator-s"></div>-->
                 </div>
-                <div class="card-group" id="teammate_card_group">
-
-                    <div class="card wow fadeIn" v-for="worker in teammate">
-                        <img class="card-img-top img-fluid" :src="'images/teammate/' + worker.img_url" alt="Card image cap">
-                        <!--<div class="s-box-img" :style="{ 'background': 'url(images/teammate/'+worker.img_url+')', 'background-size': 'cover'}"></div>-->
-                        <div class="card-block fadeIn">
-                            <h4 class="card-title">{{worker.name}}</h4>
-                            <p class="card-text">{{worker.description}}</p>
-                            <p>
-                                <a class="btn btn-warning" :href="worker.web_site" target="_blank">關於</a>
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
+                <div id="teammate_card_group" class="card-group"><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/jiefan.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">傑帆</h4> <p class="card-text"></p> <p><a href="https://www.csie.ntu.edu.tw/train/?page=teacher_display.html&amp;teachername=%E5%BC%B5%E5%82%91%E5%B8%86" target="_blank" class="btn btn-warning">關於</a></p></div></div><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/adam.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">Adam</h4> <p class="card-text"></p> <p><a href="https://hiskio.com/teacher/1591" target="_blank" class="btn btn-warning">關於</a></p></div></div><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/pecu.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">Pecu</h4> <p class="card-text"></p> <p><a href="http://homepage.ntu.edu.tw/~pecutsai" target="_blank" class="btn btn-warning">關於</a></p></div></div><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/kchen.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">kChen</h4> <p class="card-text"></p> <p><a href="https://www.facebook.com/kchen.ntu" target="_blank" class="btn btn-warning">關於</a></p></div></div><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/ethan.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">Ethan</h4> <p class="card-text"></p> <p><a href="https://hiskio.com/teacher/1644" target="_blank" class="btn btn-warning">關於</a></p></div></div><div class="card wow fadeIn" style="visibility: visible; animation-name: fadeIn;"><img src="images/teammate/dominik.jpg" alt="Card image cap" class="card-img-top img-fluid"> <div class="card-block fadeIn"><h4 class="card-title">dominik</h4> <p class="card-text"></p> <p><a href="https://www.facebook.com/dominik.seifert.7?fref=ts" target="_blank" class="btn btn-warning">關於</a></p></div></div></div>
             </div>
         </div>
     </section>
@@ -153,8 +236,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
     <script src="js/gsheet.js"></script>
     <script src="js/loader.js"></script>
-    <script src="https://unpkg.com/vue/dist/vue.js"></script>
-    <script src="js/index-vue.js"></script>
+    <!-- <script src="https://unpkg.com/vue/dist/vue.js"></script> -->
+    <!-- <script src="js/index-vue.js"></script> -->
     <script src="js/index.js"></script>
 </body>
 
