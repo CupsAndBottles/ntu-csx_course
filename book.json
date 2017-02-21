@@ -4,11 +4,15 @@
         "toggle-headers",
         "indexes",
         "anchors",
-        "header"
+        "header",
+        "disqus"
     ],
     "pluginsConfig": {
         "layout": {
             "headerPath": "layouts/header.html"
+        },
+        "disqus": {
+            "shortName": "ntu-csx.disqus.com"
         }
     }
 }
