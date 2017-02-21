@@ -1,4 +1,5 @@
 /* @import url(https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css); */
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
 @import url(navbar.css);
 
 section  {
@@ -25,7 +26,7 @@ th {
 }
 
 .book .book-summary, .book .book-body {
-    font-family: "Microsoft JhengHei UI", "Microsoft JhengHei", "PingFang TC", "Lantinghei TC", "Noto Sans CJK TC", "Microsoft YaHei UI", "Microsoft Yahei", "PingFang SC", "Lantinghei SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Noto Sans TC", "Microsoft JhengHei UI", "Microsoft JhengHei", "PingFang TC", "Lantinghei TC", "Noto Sans CJK TC", "Microsoft YaHei UI", "Microsoft Yahei", "PingFang SC", "Lantinghei SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
     top: 60px;
 }
 
