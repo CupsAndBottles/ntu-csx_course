@@ -17,7 +17,7 @@
         },
         "tbfed-pagefooter": {
             "copyright":"&copy NTU CS+X",
-            "modify_label": "該文件修訂時間：",
+            "modify_label": "<br>該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
