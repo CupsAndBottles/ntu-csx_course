@@ -6,7 +6,7 @@
         "anchors",
         "header",
         "disqus",
-        "comment"
+        "comment",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
